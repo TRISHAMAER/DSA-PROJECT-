@@ -1,7 +1,7 @@
  Binary Tree, Binary Search Tree, and Heap Implementation
 
  Contributors
-- [Your Name](https://github.com/TRISHAMAER)
+- [My Name](https://github.com/TRISHAMAER)
 - [Teammate 1 Name](https://github.com/Jemhonradez)
 - [Teammate 2 Name](https://github.com/szeistin)
 
@@ -90,4 +90,55 @@ The program includes an interactive menu where users can:
 3. Min Heap
 4. Max Heap
 5. Exit
+
+
+
+INSTRUCTIONS: Choosing a Data Structure:
+
+Choose 1 for Binary Search Tree.
+Choose 2 for Binary Tree.
+Choose 3 for Min Heap.
+Choose 4 for Max Heap.
+Choose 5 to exit the program.
+
+
+4. Performing Operations:
+
+
+
+For Binary Search Tree (BST):
+
+Insert: Insert a value by choosing the Insert option. The program will prompt you to enter a value, and it will be inserted into the tree.
+
+Display Traversals: Display the tree in different traversal orders (Preorder, Inorder, Postorder).
+
+Search: Search for a value by choosing the Search option and entering the value you want to find.
+
+Delete: Delete a node by selecting the Delete option and entering the value of the node you want to remove.
+
+
+For Binary Tree:
+
+Insert: Insert a node into the binary tree.
+
+Display Traversals: Display the tree in Preorder, Inorder, or Postorder format.
+
+Search: Search for a node by entering the value.
+
+Delete: Delete a node by entering the value, and the node will be removed.
+
+
+For Min and Max Heaps:
+
+Insert: Insert values into the Min-Heap or Max-Heap.
+
+Display Heap: After each insertion, you can display the heap to view its structure. In a Min-Heap, the smallest value will always be at the root, and in a Max-Heap, the largest value will be at the root.
+
+
+5. Exiting the Program:
+You can exit the program at any time by selecting Exit from the Main Menu.
+
+
+
+
 
